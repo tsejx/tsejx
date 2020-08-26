@@ -5,7 +5,7 @@
 
 ## Side Project
 
-+ [tsejx/Vusic](https://github.com/tsejx/Vusic): A fantasitic wareless music application built with Vue.
++ [tsejx/Vusic](https://github.com/tsejx/Vusic): A fantasitic wareless music application built with Vue. [PREVIEW](https://vusic.mrsingsing.com/#/singer)
 
 ## Knowledge Graph
 
