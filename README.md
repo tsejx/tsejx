@@ -1,5 +1,13 @@
 ### Hi there, I'm [tsejx!](https://tsejx.github.io) 👋
 
+**Talking about Personal Stuffs:**
+
+- 🔍 目前准离职状态，正在寻找新机会，欢迎广州、深圳、杭州的互联网公司勾搭；
+- 👨🏻‍💻 热爱探寻前端任何可能性的工程化实践；
+- 👯 期待您参与到我的开源项目中 🤝 ；
+- 💬 欢迎在相对应的项目中提交 issues 与我交流；
+- 📫 电子邮箱: tsejx@foxmail.com；
+
 **My technology stack:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -12,6 +20,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linux/linux.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/docker/docker.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<br/>
 
 #### Package
 
