@@ -1,6 +1,8 @@
 ### Hi there, I'm [Jehoshaphat Tse!](https://tsejx.github.io) 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=tsejx.tsejx)
+![](https://visitor-badge.laobi.icu/badge?page_id=tsejx.tsejx)
+
+
 
 **Talking about Personal Stuffs:**
 
