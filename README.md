@@ -1,5 +1,7 @@
 ### Hi there, I'm [Jehoshaphat Tse!](https://tsejx.github.io) 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=tsejx.tsejx)
+
 **Talking about Personal Stuffs:**
 
 - 🔍 目前准离职状态，正在寻找新机会，欢迎广州、深圳、杭州的互联网公司勾搭；
