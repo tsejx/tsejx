@@ -1,4 +1,4 @@
-### Hi there, I'm [Jehoshaphat Tse!](https://tsejx.github.io) 👋
+### Hi there, I'm [Jehoshaphat Tse!](https://www.mrsingsing.com/) 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=tsejx.tsejx)
 
