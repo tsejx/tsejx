@@ -26,14 +26,6 @@
 
 <br/>
 
-#### Package
-
-+ [tsejx/mutare (npm)](https://github.com/tsejx/mutare): JavaScript 工具库
-+ [tsejx/egg-reply (npm)](https://github.com/tsejx/egg-reply): 快速响应请求的 Egg.js 插件
-
-#### Side Project
-
-+ [tsejx/Vusic](https://github.com/tsejx/Vusic): A fantasitic wareless music application built with Vue. [PREVIEW](https://vusic.mrsingsing.com/#/singer)
 
 #### Knowledge Graph
 
