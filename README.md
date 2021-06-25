@@ -38,6 +38,9 @@
 + [Node Guidebook](https://tsejx.github.io/node-guidebook/)：Node.js 知识图谱 - 模块 | 异步编程 | 进程 | I/O | 服务端应用 
 + [TypeScript Guidebook](https://tsejx.github.io/typescript-guidebook/)：TypeScript 知识图谱 - 静态类型检查 | 语法基础 | 配置使用 | 编译原理 
 + [Cross Platform Guidebook](https://tsejx.github.io/cross-platform-guidebook/)：跨平台开发知识图谱 - HybridApp、ReactNative、小程序、Flutter、Electron
-+ [Data Structure and Algorithms Guidebook](https://tsejx.github.io/data-structure-and-algorithms-guidebook/)：数据结构与算法知识图谱 - 数据结构 | 算法 | 编程实现 
++ [Data Structure and Algorithms Guidebook](https://tsejx.github.io/data-structure-and-algorithms-guidebook/)：数据结构与算法知识图谱 - 数据结构 | 算法 | 编程实现
++ Visualizaition Guidebook 
++ Angular Guidebook
++ Database Guidebook
 
 ![Jehoshaphat's github stats](https://github-readme-stats.vercel.app/api?username=tsejx&show_icons=true&hide_border=true)
