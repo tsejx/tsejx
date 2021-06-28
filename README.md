@@ -39,7 +39,7 @@
 + [TypeScript Guidebook](https://tsejx.github.io/typescript-guidebook/)：TypeScript 知识图谱 - 静态类型检查 | 语法基础 | 配置使用 | 编译原理 
 + [Cross Platform Guidebook](https://tsejx.github.io/cross-platform-guidebook/)：跨平台开发知识图谱 - HybridApp、ReactNative、小程序、Flutter、Electron
 + [Data Structure and Algorithms Guidebook](https://tsejx.github.io/data-structure-and-algorithms-guidebook/)：数据结构与算法知识图谱 - 数据结构 | 算法 | 编程实现
-+ Visualizaition Guidebook 
++ [Visualizaition Guidebook](https://tsejx.github.io/visualization-guidebook/) 
 + Angular Guidebook
 + [Database Guidebook](https://tsejx.github.io/database-guidebook/)
 
