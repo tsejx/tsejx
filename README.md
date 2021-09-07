@@ -6,7 +6,6 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 热爱探寻前端任何可能性的工程化实践；
-- 👯 期待您参与到我的开源项目中 🤝 ；
 - 💬 欢迎在相对应的项目中提交 issues 与我交流；
 
 **My technology stack:**  
